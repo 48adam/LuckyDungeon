@@ -8,7 +8,7 @@ Gracz może poświęcać czas pozostały do ukończenia poziomu, aby ułatwić s
 Projekt powstał podczas konkursu programistycznego typu **hackathon**.  
 Założeniem było stworzenie gry komputerowej w krótkim czasie, z wykorzystaniem darmowych narzędzi i publicznie dostępnych zasobów, takich jak modele 3D.
 
-LuckyDungeon to prototyp gry 3D, który skupia się na ciekawej mechanice podejmowania decyzji — gracz musi wybrać, czy warto „zapłacić czasem”, by zwiększyć swoje szanse na ukończenie poziomu.
+LuckyDungeon to prototyp gry 3D, który skupia się na ciekawej mechanice podejmowania decyzji - gracz musi wybrać, czy warto „zapłacić czasem”, by zwiększyć swoje szanse na ukończenie poziomu.
 
 ## Najważniejsze cechy
 
@@ -41,12 +41,12 @@ LuckyDungeon to prototyp gry 3D, który skupia się na ciekawej mechanice podejm
 
 ## Struktura projektu
 
-- `Lucky Dungeon.exe` — plik uruchomieniowy gry
-- `Lucky Dungeon_Data/` — zasoby i dane gry
-- `MonoBleedingEdge/` — środowisko uruchomieniowe
-- `UnityPlayer.dll` — biblioteka Unity
-- `UnityCrashHandler64.exe` — obsługa błędów
-- `D3D12/` — komponenty związane z renderowaniem
+- `Lucky Dungeon.exe` - plik uruchomieniowy gry
+- `Lucky Dungeon_Data/` - zasoby i dane gry
+- `MonoBleedingEdge/` - środowisko uruchomieniowe
+- `UnityPlayer.dll` - biblioteka Unity
+- `UnityCrashHandler64.exe` - obsługa błędów
+- `D3D12/` - komponenty związane z renderowaniem
 
 ## Status projektu
 
@@ -56,3 +56,4 @@ Repozytorium zawiera obecnie build gry, bez pełnych plików źródłowych Unity
 ## Autor
 
 Projekt został wykonany zespołowo podczas hackathonu i opublikowany na koncie **48adam**.
+**Skład zespołu:** Adam Taborek, Wojtek Bargiel, Dawid Habryka
